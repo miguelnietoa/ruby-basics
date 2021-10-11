@@ -11,4 +11,3 @@ microwave = Gadget.new
 puts phone.class
 puts laptop.class        
 puts microwave.class
-
